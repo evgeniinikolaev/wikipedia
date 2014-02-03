@@ -4,6 +4,7 @@
 }
 body {
   font-family: helvetica;
+  text-decoration: none;
   font-size: 16px;
   color: white;
   background-color: #000000
@@ -90,6 +91,5 @@ li {
     margin: 0;
 }
 a {
-text-decoration: none;
 color: #cc284d;
 }
