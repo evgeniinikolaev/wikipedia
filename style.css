@@ -90,5 +90,6 @@ li {
     margin: 0;
 }
 a {
+text-decoration: none;
 color: #cc284d;
 }
