@@ -26,6 +26,11 @@ aside {
   width: 65%;
   margin: 2em auto;
 }
-a {
-color: #cc284d;
-}
+a:link 
+  {color:#cc284d;} 
+a:visited 
+  {color:#cccccc;}
+a:hover 
+  {color:#ff2850;}
+a:active
+  {color:#cc284d;}
